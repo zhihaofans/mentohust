@@ -1,0 +1,28 @@
+K 10
+svn:ignore
+V 238
+build
+stamp-h1
+missing
+Makefile.in
+Makefile
+install-sh
+INSTALL
+depcomp
+COPYING
+configure
+config.sub
+config.status
+config.rpath
+config.log
+config.h.in
+config.h
+config.guess
+autom4te.cache
+aclocal.m4
+ABOUT-NLS
+.project
+.cproject
+.autotools
+
+END

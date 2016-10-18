@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/114/trunk
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/94/trunk/configure.ac
+END
+mentohust.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/109/trunk/mentohust.spec.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/83/trunk/AUTHORS
+END
+mentohust.1
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/83/trunk/mentohust.1
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/110/trunk/ChangeLog
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/94/trunk/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/94/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/83/trunk/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/94/trunk/README
+END

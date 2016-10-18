@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 172
+autom4te.cache
+build
+.cdtconfigure.Build (GNU)
+.cproject
+.project
+Makefile.in
+compile
+aclocal.m4
+config.h.in
+configure
+depcomp
+missing
+install-sh
+COPYING
+INSTALL
+.settings
+
+END

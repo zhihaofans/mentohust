@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 228
+zh_CN.gmo
+stamp-po
+mentohust.pot
+Makevars.template
+Rules-quot
+remove-potcdate.sin
+remove-potcdate.sed
+quot.sed
+POTFILES
+Makefile.in.in
+Makefile.in
+Makefile
+insert-header.sin
+en@quot.header
+en@boldquot.header
+boldquot.sed
+en.gmo
+
+END

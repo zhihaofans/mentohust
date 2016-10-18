@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/107/branches/dbus/src/gtk2
+END
+mentohust-gtk2.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/107/branches/dbus/src/gtk2/mentohust-gtk2.desktop
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/107/branches/dbus/src/gtk2/Makefile.am
+END
+mentohust-gtk2.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/107/branches/dbus/src/gtk2/mentohust-gtk2.c
+END

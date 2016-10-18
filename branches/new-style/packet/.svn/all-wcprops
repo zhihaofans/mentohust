@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/60/branches/new-style/packet
+END
+supplicant.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/branches/new-style/packet/supplicant.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/branches/new-style/packet/md5.c
+END
+supplicant.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/branches/new-style/packet/supplicant.h
+END
+packetsender.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/branches/new-style/packet/packetsender.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/branches/new-style/packet/Makefile.am
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/60/branches/new-style/packet/md5.h
+END
+packetsender.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/60/branches/new-style/packet/packetsender.h
+END
+Tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/60/branches/new-style/packet/Tables.h
+END

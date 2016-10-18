@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/59/branches/new-style/debian
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/59/branches/new-style/debian/compat
+END
+watch
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/59/branches/new-style/debian/watch
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/branches/new-style/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/59/branches/new-style/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/59/branches/new-style/debian/rules
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/59/branches/new-style/debian/control
+END
